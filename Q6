@@ -1,6 +1,6 @@
-package e6
+package a6
 
-object e6 {
+object a6 {
   def fibb(num:Int):Int={
     num match {
       case 0 => return 0;
