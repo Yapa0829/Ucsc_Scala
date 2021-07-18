@@ -1,6 +1,6 @@
-package e4e5
+package a4a5
 
-object e4e5 {
+object a4a5 {
   def isEven(num:Int):Boolean={
     num match {
       case 0 => true;
