@@ -1,6 +1,6 @@
-package e3
+package a3
 
-object e3 {
+object a3 {
 
   def addition(num:Int):Int={
     num match {
